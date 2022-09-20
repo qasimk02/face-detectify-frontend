@@ -1,0 +1,5 @@
+.Tilt{
+    display: flex;
+    justify-content: flex-start;
+    background: linear-gradient(to left, #fa70d3 0%, #feeb40 100%);
+}
